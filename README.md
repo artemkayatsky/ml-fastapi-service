@@ -1,4 +1,4 @@
-\# ML Text Classification Service
+# ML Text Classification Service
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-\## 📋 Описание
+## Описание
 
 
 
@@ -22,21 +22,21 @@
 
 
 
-\## 🚀 Быстрый старт
+## Быстрый старт
 
 
 
-\### Предварительные требования
+### Предварительные требования
 
 
 
-\- Docker и Docker Compose
+- Docker и Docker Compose
 
-\- Python 3.10+ (для локального запуска)
+- Python 3.10+ (для локального запуска)
 
 
 
-\### Запуск с Docker
+### Запуск с Docker
 
 
 
@@ -61,4 +61,24 @@ docker-compose up --build
 docker build -t ml-text-classifier .
 
 docker run -p 8000:8000 ml-text-classifier
+```
 
+## Примеры запросов
+
+### Предсказание для одного текста
+
+```
+{
+  "text": "The existence of God cannot be proven by science"
+}
+```
+
+### Предсказание для нескольких текстов
+
+```
+{
+  "texts": [
+    "Prayer is an important part of spiritual life", "Python is a powerful programming language for data analysis"
+  ]
+}
+```
