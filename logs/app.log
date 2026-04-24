@@ -1,0 +1,240 @@
+2026-04-24 13:13:25 - root - INFO - ÀÓ„ËÓ‚‡ÌËÂ Ì‡ÒÚÓÂÌÓ
+2026-04-24 13:13:25 - uvicorn.error - INFO - Started server process [6628]
+2026-04-24 13:13:25 - uvicorn.error - INFO - Waiting for application startup.
+2026-04-24 13:13:25 - app.main - INFO - «‡ÔÛÒÍ ML ÒÂ‚ËÒ‡...
+2026-04-24 13:13:25 - app.main - INFO - ÃÓ‰ÂÎ¸ ÛÒÔÂ¯ÌÓ Á‡„ÛÊÂÌ‡ Ë „ÓÚÓ‚‡ Í ‡·ÓÚÂ
+2026-04-24 13:13:25 - uvicorn.error - INFO - Application startup complete.
+2026-04-24 13:13:58 - app.main - INFO - Request: GET /docs
+2026-04-24 13:13:58 - app.main - INFO - Response: GET /docs - Status: 200 - Time: 0.001s
+2026-04-24 13:13:58 - app.main - INFO - Request: GET /openapi.json
+2026-04-24 13:13:58 - app.main - INFO - Response: GET /openapi.json - Status: 200 - Time: 0.004s
+2026-04-24 13:14:21 - app.main - INFO - Request: GET /health
+2026-04-24 13:14:21 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 13:14:21 - app.main - INFO - Request: GET /favicon.ico
+2026-04-24 13:14:21 - app.main - INFO - Response: GET /favicon.ico - Status: 404 - Time: 0.002s
+2026-04-24 13:14:49 - app.main - INFO - Request: GET /health
+2026-04-24 13:14:49 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 13:16:46 - uvicorn.error - INFO - Shutting down
+2026-04-24 13:16:46 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-04-24 13:16:46 - app.main - INFO - ŒÒÚ‡ÌÓ‚Í‡ ML ÒÂ‚ËÒ‡...
+2026-04-24 13:16:46 - uvicorn.error - INFO - Application shutdown complete.
+2026-04-24 13:16:46 - uvicorn.error - INFO - Finished server process [6628]
+2026-04-24 10:35:14 - root - INFO - –õ–æ–≥–∏—Ä–æ–≤–∞–Ω–∏–µ –Ω–∞—Å—Ç—Ä–æ–µ–Ω–æ
+2026-04-24 10:35:14 - uvicorn.error - INFO - Started server process [1]
+2026-04-24 10:35:14 - uvicorn.error - INFO - Waiting for application startup.
+2026-04-24 10:35:14 - app.main - INFO - –ó–∞–ø—É—Å–∫ ML —Å–µ—Ä–≤–∏—Å–∞...
+2026-04-24 10:35:14 - app.main - INFO - –ú–æ–¥–µ–ª—å —É—Å–ø–µ—à–Ω–æ –∑–∞–≥—Ä—É–∂–µ–Ω–∞ –∏ –≥–æ—Ç–æ–≤–∞ –∫ —Ä–∞–±–æ—Ç–µ
+2026-04-24 10:35:14 - uvicorn.error - INFO - Application startup complete.
+2026-04-24 10:35:14 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-24 10:35:18 - app.main - INFO - Request: GET /health
+2026-04-24 10:35:18 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:35:48 - app.main - INFO - Request: GET /health
+2026-04-24 10:35:48 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:36:18 - app.main - INFO - Request: GET /health
+2026-04-24 10:36:18 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:36:48 - app.main - INFO - Request: GET /health
+2026-04-24 10:36:48 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:37:19 - app.main - INFO - Request: GET /health
+2026-04-24 10:37:19 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:37:37 - app.main - INFO - Request: GET /docs
+2026-04-24 10:37:37 - app.main - INFO - Response: GET /docs - Status: 200 - Time: 0.002s
+2026-04-24 10:37:38 - app.main - INFO - Request: GET /openapi.json
+2026-04-24 10:37:38 - app.main - INFO - Response: GET /openapi.json - Status: 200 - Time: 0.007s
+2026-04-24 10:37:49 - app.main - INFO - Request: GET /health
+2026-04-24 10:37:49 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:38:19 - app.main - INFO - Request: GET /health
+2026-04-24 10:38:19 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:38:49 - app.main - INFO - Request: GET /health
+2026-04-24 10:38:49 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:38:57 - app.main - INFO - Request: POST /predict
+2026-04-24 10:38:57 - app.main - INFO - Predict request received, text length: 48
+2026-04-24 10:38:57 - app.main - INFO - Prediction: –†–µ–ª–∏–≥–∏—è (confidence: 0.700)
+2026-04-24 10:38:57 - app.main - INFO - Response: POST /predict - Status: 200 - Time: 0.008s
+2026-04-24 10:39:20 - app.main - INFO - Request: GET /health
+2026-04-24 10:39:20 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.003s
+2026-04-24 10:39:50 - app.main - INFO - Request: GET /health
+2026-04-24 10:39:50 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:40:08 - app.main - INFO - Request: POST /predict/batch
+2026-04-24 10:40:08 - app.main - INFO - Batch predict request received, texts count: 2
+2026-04-24 10:40:08 - app.main - INFO - Batch prediction completed for 2 texts
+2026-04-24 10:40:08 - app.main - INFO - Response: POST /predict/batch - Status: 200 - Time: 0.007s
+2026-04-24 10:40:20 - app.main - INFO - Request: GET /health
+2026-04-24 10:40:20 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:40:50 - app.main - INFO - Request: GET /health
+2026-04-24 10:40:50 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:41:20 - app.main - INFO - Request: GET /health
+2026-04-24 10:41:20 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:41:51 - app.main - INFO - Request: GET /health
+2026-04-24 10:41:51 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:42:21 - app.main - INFO - Request: GET /health
+2026-04-24 10:42:21 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:42:51 - app.main - INFO - Request: GET /health
+2026-04-24 10:42:51 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:43:21 - app.main - INFO - Request: GET /health
+2026-04-24 10:43:21 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:43:52 - app.main - INFO - Request: GET /health
+2026-04-24 10:43:52 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:44:22 - app.main - INFO - Request: GET /health
+2026-04-24 10:44:22 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:44:52 - app.main - INFO - Request: GET /health
+2026-04-24 10:44:52 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:45:23 - app.main - INFO - Request: GET /health
+2026-04-24 10:45:23 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.003s
+2026-04-24 10:45:53 - app.main - INFO - Request: GET /health
+2026-04-24 10:45:53 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:46:23 - app.main - INFO - Request: GET /health
+2026-04-24 10:46:23 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:46:53 - app.main - INFO - Request: GET /health
+2026-04-24 10:46:53 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:47:24 - app.main - INFO - Request: GET /health
+2026-04-24 10:47:24 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:47:54 - app.main - INFO - Request: GET /health
+2026-04-24 10:47:54 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:48:24 - app.main - INFO - Request: GET /health
+2026-04-24 10:48:24 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:48:54 - app.main - INFO - Request: GET /health
+2026-04-24 10:48:54 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:49:25 - app.main - INFO - Request: GET /health
+2026-04-24 10:49:25 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:49:55 - app.main - INFO - Request: GET /health
+2026-04-24 10:49:55 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:50:25 - app.main - INFO - Request: GET /health
+2026-04-24 10:50:25 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:50:55 - app.main - INFO - Request: GET /health
+2026-04-24 10:50:55 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:51:26 - app.main - INFO - Request: GET /health
+2026-04-24 10:51:26 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:51:56 - app.main - INFO - Request: GET /health
+2026-04-24 10:51:56 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:52:26 - app.main - INFO - Request: GET /health
+2026-04-24 10:52:26 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:52:56 - app.main - INFO - Request: GET /health
+2026-04-24 10:52:56 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 10:53:26 - app.main - INFO - Request: GET /health
+2026-04-24 10:53:26 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.003s
+2026-04-24 10:53:43 - uvicorn.error - INFO - Shutting down
+2026-04-24 10:53:43 - uvicorn.error - INFO - Waiting for application shutdown.
+2026-04-24 10:53:43 - app.main - INFO - –û—Å—Ç–∞–Ω–æ–≤–∫–∞ ML —Å–µ—Ä–≤–∏—Å–∞...
+2026-04-24 10:53:43 - uvicorn.error - INFO - Application shutdown complete.
+2026-04-24 10:53:43 - uvicorn.error - INFO - Finished server process [1]
+2026-04-24 11:08:21 - root - INFO - –õ–æ–≥–∏—Ä–æ–≤–∞–Ω–∏–µ –Ω–∞—Å—Ç—Ä–æ–µ–Ω–æ
+2026-04-24 11:08:21 - uvicorn.error - INFO - Started server process [1]
+2026-04-24 11:08:21 - uvicorn.error - INFO - Waiting for application startup.
+2026-04-24 11:08:21 - app.main - INFO - –ó–∞–ø—É—Å–∫ ML —Å–µ—Ä–≤–∏—Å–∞...
+2026-04-24 11:08:21 - app.main - INFO - –ú–æ–¥–µ–ª—å —É—Å–ø–µ—à–Ω–æ –∑–∞–≥—Ä—É–∂–µ–Ω–∞ –∏ –≥–æ—Ç–æ–≤–∞ –∫ —Ä–∞–±–æ—Ç–µ
+2026-04-24 11:08:21 - uvicorn.error - INFO - Application startup complete.
+2026-04-24 11:08:21 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-24 11:08:24 - app.main - INFO - Request: GET /health
+2026-04-24 11:08:24 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:08:44 - app.main - INFO - Request: GET /docs
+2026-04-24 11:08:44 - app.main - INFO - Response: GET /docs - Status: 200 - Time: 0.001s
+2026-04-24 11:08:44 - app.main - INFO - Request: GET /openapi.json
+2026-04-24 11:08:44 - app.main - INFO - Response: GET /openapi.json - Status: 200 - Time: 0.005s
+2026-04-24 11:08:54 - app.main - INFO - Request: GET /health
+2026-04-24 11:08:54 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:09:25 - app.main - INFO - Request: GET /health
+2026-04-24 11:09:25 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 11:09:55 - app.main - INFO - Request: GET /health
+2026-04-24 11:09:55 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:10:05 - app.main - INFO - Request: POST /predict
+2026-04-24 11:10:05 - app.main - INFO - Predict request received, text length: 48
+2026-04-24 11:10:05 - app.main - INFO - Prediction: –†–µ–ª–∏–≥–∏—è (confidence: 0.700)
+2026-04-24 11:10:05 - app.main - INFO - Response: POST /predict - Status: 200 - Time: 0.015s
+2026-04-24 11:10:25 - app.main - INFO - Request: GET /health
+2026-04-24 11:10:25 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:10:56 - app.main - INFO - Request: GET /health
+2026-04-24 11:10:56 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:11:26 - app.main - INFO - Request: GET /health
+2026-04-24 11:11:26 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:11:56 - app.main - INFO - Request: GET /health
+2026-04-24 11:11:56 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 11:12:26 - app.main - INFO - Request: GET /health
+2026-04-24 11:12:26 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:12:57 - app.main - INFO - Request: GET /health
+2026-04-24 11:12:57 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:13:27 - app.main - INFO - Request: GET /health
+2026-04-24 11:13:27 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:13:57 - app.main - INFO - Request: GET /health
+2026-04-24 11:13:57 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:14:27 - app.main - INFO - Request: GET /health
+2026-04-24 11:14:27 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 11:14:57 - app.main - INFO - Request: GET /health
+2026-04-24 11:14:57 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:15:28 - app.main - INFO - Request: GET /health
+2026-04-24 11:15:28 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:15:58 - app.main - INFO - Request: GET /health
+2026-04-24 11:15:58 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:16:28 - app.main - INFO - Request: GET /health
+2026-04-24 11:16:28 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:16:58 - app.main - INFO - Request: GET /health
+2026-04-24 11:16:58 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:17:29 - app.main - INFO - Request: GET /health
+2026-04-24 11:17:29 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 11:17:59 - app.main - INFO - Request: GET /health
+2026-04-24 11:17:59 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 11:18:29 - app.main - INFO - Request: GET /health
+2026-04-24 11:18:29 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:19:00 - app.main - INFO - Request: GET /health
+2026-04-24 11:19:00 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.016s
+2026-04-24 11:19:30 - app.main - INFO - Request: GET /health
+2026-04-24 11:19:30 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:20:00 - app.main - INFO - Request: GET /health
+2026-04-24 11:20:00 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:20:30 - app.main - INFO - Request: GET /health
+2026-04-24 11:20:30 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 11:21:01 - app.main - INFO - Request: GET /health
+2026-04-24 11:21:01 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:21:31 - app.main - INFO - Request: GET /health
+2026-04-24 11:21:31 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:22:01 - app.main - INFO - Request: GET /health
+2026-04-24 11:22:01 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:22:31 - app.main - INFO - Request: GET /health
+2026-04-24 11:22:31 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:23:01 - app.main - INFO - Request: GET /health
+2026-04-24 11:23:01 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:23:32 - app.main - INFO - Request: GET /health
+2026-04-24 11:23:32 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:24:02 - app.main - INFO - Request: GET /health
+2026-04-24 11:24:02 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:24:32 - app.main - INFO - Request: GET /health
+2026-04-24 11:24:32 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:25:02 - app.main - INFO - Request: GET /health
+2026-04-24 11:25:02 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:25:33 - app.main - INFO - Request: GET /health
+2026-04-24 11:25:33 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:26:03 - app.main - INFO - Request: GET /health
+2026-04-24 11:26:03 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:26:33 - app.main - INFO - Request: GET /health
+2026-04-24 11:26:33 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:26:36 - app.main - INFO - Request: GET /health
+2026-04-24 11:26:36 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:27:03 - app.main - INFO - Request: GET /health
+2026-04-24 11:27:03 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:27:34 - app.main - INFO - Request: GET /health
+2026-04-24 11:27:34 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:28:04 - app.main - INFO - Request: GET /health
+2026-04-24 11:28:04 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.001s
+2026-04-24 11:28:34 - app.main - INFO - Request: GET /health
+2026-04-24 11:28:37 - app.main - INFO - Response: GET /health - Status: 200 - Time: 2.813s
+2026-04-24 11:29:07 - app.main - INFO - Request: GET /health
+2026-04-24 11:29:07 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:29:37 - app.main - INFO - Request: GET /health
+2026-04-24 11:29:37 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:30:08 - app.main - INFO - Request: GET /health
+2026-04-24 11:30:08 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:30:10 - app.main - INFO - Request: POST /predict/batch
+2026-04-24 11:30:10 - app.main - INFO - Batch predict request received, texts count: 2
+2026-04-24 11:30:10 - app.main - INFO - Batch prediction completed for 2 texts
+2026-04-24 11:30:10 - app.main - INFO - Response: POST /predict/batch - Status: 200 - Time: 0.012s
+2026-04-24 11:30:38 - app.main - INFO - Request: GET /health
+2026-04-24 11:30:38 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:31:08 - app.main - INFO - Request: GET /health
+2026-04-24 11:31:08 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:31:38 - app.main - INFO - Request: GET /health
+2026-04-24 11:31:38 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:32:08 - app.main - INFO - Request: GET /health
+2026-04-24 11:32:08 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:32:39 - app.main - INFO - Request: GET /health
+2026-04-24 11:32:39 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
+2026-04-24 11:33:09 - app.main - INFO - Request: GET /health
+2026-04-24 11:33:09 - app.main - INFO - Response: GET /health - Status: 200 - Time: 0.002s
